@@ -1,0 +1,122 @@
+body{
+  margin: 0;
+  text-align:center;
+  font-family: 'Merriweather', serif;
+}
+
+.top{
+  background-color: #E4F9F5;
+}
+
+.top-cloud{
+  margin-top: 5%;
+  position:relative;
+  margin-left: 25%;
+}
+
+.intro{
+  width: 30%;
+  margin:auto;
+}
+
+.bottom-cloud{
+  position: absolute;
+}
+
+h1
+{
+  margin: 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625em;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a{
+  color: #11999E;
+}
+
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+}
+
+p{
+  line-height: 2;
+}
+
+.img1{
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
+.img2{
+  width: 25%;
+  float: right;
+  margin-left: 20px;
+  border-radius: 50%;
+}
+
+.hihi{
+  font-weight: normal;
+}
+
+.profile img{
+  margin-top: 30px;
+  width: 30%;
+  border-radius: 50%;
+}
+
+hr{
+  width: 8%;
+  margin: 100px auto;
+  height: 1px;
+  border-top: 4px dotted grey;
+
+}
+
+.bottom-container{
+  height: 100px;
+  padding-top: 20px;
+  margin-top: 100px;
+  background-color: #66bfbf;
+}
+
+.bottom-container p{
+  color: white;
+}
+
+.contact-me p{
+  margin-bottom: 4rem;
+}
+.contact-button{
+  margin-top: 20px;
+  background-color: #3d94f6;
+  color: white;
+  padding: 1rem 2rem;
+  border-radius: 1rem;
+}
+
+a{
+  color:#11999E;
+  padding-right: 20px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+a:hover{
+  color: white;
+}
